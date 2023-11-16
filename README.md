@@ -30,9 +30,4 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piggyrabbit" alt="Top Langs">
-  </a>
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piggyrabbit)](https://solved.ac//piggyrabbit)
