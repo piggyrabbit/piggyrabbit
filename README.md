@@ -30,4 +30,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piggyrabbit)](https://solved.ac//piggyrabbit)
+<p align="center">
+  <a href="https://solved.ac//piggyrabbit">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=piggyrabbit" alt="Solved.ac Profile">
+</p>
