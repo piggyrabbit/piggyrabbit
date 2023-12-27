@@ -29,8 +29,9 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
 </p>
-
+<!--
 <p align="center">
   <a href="https://solved.ac//piggyrabbit">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=piggyrabbit" alt="Solved.ac Profile">
 </p>
+-->
